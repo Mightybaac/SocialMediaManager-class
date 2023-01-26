@@ -1,2 +1,1 @@
-# SocialMediaManager-class
- SocialMediaManager class that creates social media accounts using a separate SocialMediaAccounts class, schedules posts for these accounts, tracks analytics for these accounts, and manages followers for these accounts.
+The program would allow the user to input their business or organization's information, and then automatically create and manage accounts on various social media platforms, such as Twitter, Facebook, Instagram, and LinkedIn. The program would also allow the user to schedule and post content to their accounts, track analytics and performance, and manage their followers and interactions.
